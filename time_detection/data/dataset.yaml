@@ -1,0 +1,25 @@
+path: /content/drive/MyDrive/time_anlyzer/data
+train:
+  images: /content/drive/MyDrive/time_anlyzer/data/images/train
+  labels: /content/drive/MyDrive/time_anlyzer/data/labels/train
+val:
+  images: /content/drive/MyDrive/time_anlyzer/data/images/train
+  labels: /content/drive/MyDrive/time_anlyzer/data/labels/train
+nc: 16
+names:
+- dog
+- person
+- cat
+- tv
+- car
+- meatballs
+- marinara sauce
+- tomato soup
+- chicken noodle soup
+- french onion soup
+- chicken breast
+- ribs
+- pulled pork
+- hamburger
+- cavity
+- time_date
